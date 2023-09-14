@@ -1,0 +1,10 @@
+// 상속을 하지 말아야 하는 경우
+class Engine {
+  String? name;
+  int? price;
+}
+
+class Car {
+  String? name;
+  int? price;
+}
